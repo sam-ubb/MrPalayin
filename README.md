@@ -34,4 +34,14 @@ Está diseñado para servidores de estudio y comunidades que buscan motivación,
 ---
 
 ## 📂 Estructura del proyecto
-
+MrPalayin/
+│── src/
+│ ├── commands/
+│ │ ├── levels.js
+│ │ ├── welcome.js
+│ │ └── remind.js
+│ ├── db.js
+│ └── index.js
+│── .env
+│── package.json
+│── README.md
