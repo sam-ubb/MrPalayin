@@ -29,7 +29,7 @@ Está diseñado para servidores de estudio y comunidades que buscan motivación,
 - [Node.js](https://nodejs.org/)  
 - [discord.js v14](https://discord.js.org/)  
 - [PostgreSQL](https://www.postgresql.org/) (para persistencia de XP y estadísticas)  
-- [Nodemon](https://nodemon.io/) (para desarrollo en caliente)
+- [Nodemon](https://nodemon.io/) 
 
 ---
 
